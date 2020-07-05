@@ -11,7 +11,7 @@ How to use:
 1 - Just edit the remap_table.txt file. each line maps to one class like this:  
 2 5  
 3 0  
-7 9 
+7 9  
 12 3  
 Every label with class 2 will changed to 5. 3 to 0. 7 to 9. and 12 to 3.  
   
