@@ -1,5 +1,5 @@
-# YOLOv2-4_Class_Remap
-Remapping yolov2-4 *.txt annotations from to any class  
+# YOLOv2-5_Class_Remap
+Remapping yolov2-5 *.txt annotations from to any class  
 
 If you labeled a lot of files but want to add a class or change class order.  
 If you labeled a bunch of images and noticed you chose the wrong class and don't want to start over.  
